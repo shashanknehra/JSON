@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">JSON</string>
+    <string name="textview">JSON</string>
+    <string name="btn">Go</string>
+</resources>
